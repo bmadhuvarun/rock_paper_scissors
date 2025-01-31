@@ -1,4 +1,4 @@
-# rock_paper_scissors**
+# rock_paper_scissors
 **Introduction**
 This project is a simple yet engaging Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. It allows users to play against the computer, keeps track of scores, and dynamically displays results with visual feedback.
 
